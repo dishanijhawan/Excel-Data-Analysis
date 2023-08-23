@@ -81,8 +81,9 @@ how they impact the GDP column (like how Lending Interest affects GDP ) and
 develop factors that affect a country's GDP to solve our Business Problem.
 
 ~Storytelling:
-Create a storyline that can be presented to the stakeholders. This should have all the
-insight you got while doing the analysis.
+
+Create a storyline that can be presented to the stakeholders. This should have all the insight you got while doing the analysis.
+
 
 # Questions asked initially
 ~ How to approach:
