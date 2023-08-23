@@ -73,5 +73,7 @@ insight you got while doing the analysis.
 
 # Steps I took:
 First, created a Unique Id as the first column of each sheet and then merged the sheets.
+
 ~To merge different sheets, took help of VLookup
+
 ~Vlookup Syntax: =VLOOKUP(search_key, range, index, [is_sorted])
