@@ -1,5 +1,5 @@
-# 1. Data Analysis through Excel
-Bajaj Store (Data Analysis through Excel)
+# 1. Bajaj Store (Sales Dataset- Data Analysis through Excel)
+
 
 Sample Insights
 
@@ -8,6 +8,8 @@ Women are more likely to buy compared to men (-65%) Maharashtra, Karnataka and U
 Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/different offers/coupons available on Amazon, Flipkart and Myntra.
 
 # 2. World Economic Indicator
+
+
 GDP(Gross Domestic Product)
 Before you delve into it, let’s have a basic understanding of GDP.
 Gross domestic product (GDP) is the total monetary or market value of all the
@@ -31,7 +33,7 @@ per the population. Whenever these features i.e, Energy consumption, CO2
 emission and Tourism Outbound are compared between two countries they
 always get calculated in terms of per population (per capita).
 
-# Problem Statement:
+# Problem Statement of World Economic Indicator:
 
 The Organisation for Economic Co-operation and Development is creating a
 department under its name which will focus on how a country can attain sustainable
@@ -61,7 +63,8 @@ Storytelling:
 Create a storyline that can be presented to the stakeholders. This should have all the
 insight you got while doing the analysis.
 
-# Your project will be evaluated on following parameters -
+# Project will be evaluated on following parameters -
+
 APPLY FORMATTING AND DATA PROCESSING
 (Max Score 200)
 Perfom all the formatting operation to make data presentable. Before the analysis, perform all the sub steps of data processing on the data.
