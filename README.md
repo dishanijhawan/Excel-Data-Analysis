@@ -32,13 +32,16 @@ Now, they provide you with the dataset ( World Economic Indicator Dataset), whic
 has different countries' and regions' GDPs, populations, and other factors that might
 impact GDP/Capita. Now using Data Analysis methods, develop a solution that can
 be referred to as “how a country can attain sustainable growth“.
+
 Steps to Follow:
 Formating & Data Processing: Before you start with your analysis, rearrange the columns in all sheets where you
 can bring all the common columns as the first three columns of the individual sheet.
 Then perform formatting on each sheet to make it presentable and understandable.
 Once your sheet is ready, Apply data processing steps to prepare the dataset for the
 analysis.
-Data Analysis: Find individual features and study their distribution in the dataset. Further, analyse
+
+Data Analysis: 
+Find individual features and study their distribution in the dataset. Further, analyse
 how they impact the GDP column (like how Lending Interest affects GDP ) and
 develop factors that affect a country's GDP to solve our Business Problem.
 StorytellingCreate a storyline that can be presented to the stakeholders. This should have all the
