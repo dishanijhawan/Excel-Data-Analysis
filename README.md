@@ -85,28 +85,22 @@ Create a storyline that can be presented to the stakeholders. This should have a
 insight you got while doing the analysis.
 
 # Questions asked initially
-How to approach:
+~How to approach:
 First, create a Unique Id as the first column of each sheet and then merge the sheets.
+To merge different sheets, can take help of VLookup
+Vlookup Syntax: =VLOOKUP(search_key, range, index, [is_sorted])
 
-~To merge different sheets, can take help of VLookup
-
-~Vlookup Syntax: =VLOOKUP(search_key, range, index, [is_sorted])
-
-How would you handle the missing values in GDP dataset?
+~How would you handle the missing values in GDP dataset?
 In this case, we can not replace missing values with any other values like mean/median/zero, etc. because GDP is a critical value, and the GDP of a country changes over a period of time depends on various factors.
-
 Also whichever factors impact the GDP, will always have some value trend over a period. So because of this, any value which is missing in-between can not be replaced by zero or any aggregated method.
-
 To impute the value for the current year we can take the previous year’s value for the same feature and region. 
 Because for two consecutive years economic trends can be taken the same for the analysis. 
 If the previous year’s value is also missing, then the best suitable practice, in that case, is to leave that cell blank.
 
-Which of the following conditions will you use to handle the missing values?
-
+~Which of the following conditions will you use to handle the missing values?
 Using an IF condition after sorting the data set in ascending order with respect to region, country & year. To handle missing values, you are replacing the missing value with the same country/Region’s previous year value. If the previous year's value is also missing, then leave it as it is.
 
-What can you say about the presence of Outliers in the Dataset?
-
+~What can you say about the presence of Outliers in the Dataset?
 I can find outliers in the dataset in columns such as Health exp/Capita, Energy usage, CO2 emission, Population Total, etc.
 
 
