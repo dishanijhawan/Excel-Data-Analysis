@@ -56,9 +56,11 @@ insight you got while doing the analysis.
 APPLY FORMATTING AND DATA PROCESSING
 (Max Score 200)
 Perfom all the formatting operation to make data presentable. Before the analysis, perform all the sub steps of data processing on the data.
+
 PERFORM ANALYSIS TO GAIN INSIGHTS
 (Max Score 400)
-On the prepared data sheet, perform univariate and bivariate analysis to get useful insights
+On the prepared data sheet, perform univariate and bivariate analysis to get useful insights.
+
 EVALUATE THE INSIGHTS AND CREATE A STORYLINE
 (Max Score 150)
 Create a final outcome power point presentation using all the insights.
