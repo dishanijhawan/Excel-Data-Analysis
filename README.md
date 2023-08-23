@@ -52,3 +52,20 @@ Storytelling:
 Create a storyline that can be presented to the stakeholders. This should have all the
 insight you got while doing the analysis.
 
+# Submission
+Steps to Follow:
+Formating & Data Processing:
+Before you start with your analysis, rearrange the columns in all sheets where you
+can bring all the common columns as the first three columns of the individual sheet.
+Then perform formatting on each sheet to make it presentable and understandable.
+Once your sheet is ready, Apply data processing steps to prepare the dataset for the
+analysis.
+
+Data Analysis:
+Find individual features and study their distribution in the dataset. Further, analyse
+how they impact the GDP column (like how Lending Interest affects GDP ) and
+develop factors that affect a country's GDP to solve our Business Problem.
+
+Storytelling:
+Create a storyline that can be presented to the stakeholders. This should have all the
+insight you got while doing the analysis.
