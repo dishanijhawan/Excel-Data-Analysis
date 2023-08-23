@@ -1,4 +1,13 @@
-# World Economic Indicator
+# 1. Data Analysis through Excel
+Bajaj Store (Data Analysis through Excel)
+
+Sample Insights
+
+Women are more likely to buy compared to men (-65%) Maharashtra, Karnataka and Uttar Pradesh are the top 3 Adult age group (30-49 yrs) contributes maximum (-50%) Amazon, Flipkart and Myntra channels are max contribution. Final Conclusion to improve Bajaj store sales:
+
+Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/different offers/coupons available on Amazon, Flipkart and Myntra.
+
+# 2. World Economic Indicator
 GDP(Gross Domestic Product)
 Before you delve into it, let’s have a basic understanding of GDP.
 Gross domestic product (GDP) is the total monetary or market value of all the
