@@ -48,6 +48,7 @@ Find individual features and study their distribution in the dataset. Further, a
 how they impact the GDP column (like how Lending Interest affects GDP ) and
 develop factors that affect a country's GDP to solve our Business Problem.
 
-StorytellingCreate a storyline that can be presented to the stakeholders. This should have all the
+Storytelling:
+Create a storyline that can be presented to the stakeholders. This should have all the
 insight you got while doing the analysis.
 
